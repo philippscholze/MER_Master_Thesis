@@ -1,5 +1,5 @@
 # Introduction
-This repository contains the code (jupyer notebooks) for the models and preprocessing methods which were used in my master thesis. A discription of my master thesis is given below (german and english). The training of the models was done using Google Colab. The dataset was provided by Cyanite (www.cyanite.ai), thanks! :)
+This repository contains the code (jupyter notebooks) for the models and preprocessing methods which were used in my master thesis. A discription of my master thesis is given below (german and english). The training of the models was done using Google Colab. The dataset was provided by Cyanite (www.cyanite.ai), thanks! :)
 
 You can also find the full master thesis as a PDF in this repository (german only, sorry!).
 
