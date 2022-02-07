@@ -1,5 +1,5 @@
 # Introduction
-This repository contains the code (jupyer notebooks) for the models and preprocessing methods which were used in my master thesis. A discription of my master thesis is given below (german and english).
+This repository contains the code (jupyer notebooks) for the models and preprocessing methods which were used in my master thesis. A discription of my master thesis is given below (german and english). The training of the models was done using Google Colab. The dataset was provided by Cyanite (www.cyanite.ai), thanks! :)
 
 # (DE) Musikemotionserkennung durch Deep Learning auf Grundlage von audio- und textbasierten Informationen
 ## Zusammenfassung
